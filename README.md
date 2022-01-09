@@ -1,1 +1,1 @@
-# HTML-CSS-JavaScript-Project-2
+# HTML-CSS-JavaScript-Project-2 : Progress steps
